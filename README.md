@@ -4,7 +4,11 @@ A decentralized number guessing game built on the IOTA blockchain network. Playe
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/870adf7d-bf98-4170-9b0d-e63344ab2617" />
 
+Contract Address
 
+- **Network**: testnet
+- **Package ID**: `0x3062c7a482e441a030860cf496ac40a1d2de08d0938d77154276b033cf985814`
+- **Explorer**: [View on Explorer]([https://explorer.iota.org/object/0x47b416f0aa7901e561086213c055ebf86075e0985f0da60a480924b08083a68e?network=devnet](https://explorer.iota.org/object/0xf2c59b67c6da61043b13da22261ad17a1697a2162e5b792a1c778562247f70b4?network=testnet))
 ## ✨ Features
 
 - 🔗 Connect IOTA wallet via IOTA dApp Kit
@@ -225,6 +229,7 @@ This project was created as a demo to learn how to build dApps on the IOTA block
 
 **Have fun playing!** 🎮🎉
 #
+
 
 
 
