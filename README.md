@@ -1,6 +1,7 @@
 # 🎮 Game Guess - IOTA Blockchain dApp
 
 A decentralized number guessing game built on the IOTA blockchain network. Players need to guess 4 secret numbers correctly to receive a Flag NFT.
+![Uploading image.png…]()
 
 https://explorer.iota.org/object/0xd6bb032e1e769248b75b880cae8189f9f569a4b27fb1ccdbb0dbfceaab032a8e?network=devnet
 
@@ -224,4 +225,5 @@ This project was created as a demo to learn how to build dApps on the IOTA block
 
 **Have fun playing!** 🎮🎉
 #
+
 
